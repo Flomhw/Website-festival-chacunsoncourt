@@ -1,7 +1,8 @@
 # Website-festival-chacunsoncourt
 [Freelancer project] : A website for a short film festival
 
-Date : 2018
+Date : 2018-1019
+Note : Sadly the festival was shutdown due to COVID after 2020.
 
 This website was made with Wordpress, custom theme and posts. 
 
